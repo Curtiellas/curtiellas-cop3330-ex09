@@ -17,11 +17,11 @@ public class App
         final float coverage = 350;
 
         //read length
-        System.out.println("What is the length of the room in feet?");
+        System.out.print("What is the length of the room in feet? ");
         float length = sc.nextFloat();
 
         //read width
-        System.out.println("What is the width of the room in feet?");
+        System.out.print("What is the width of the room in feet? ");
         float width = sc.nextFloat();
 
         //calculate
